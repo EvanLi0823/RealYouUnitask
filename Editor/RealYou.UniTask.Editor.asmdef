@@ -1,0 +1,19 @@
+{
+    "name": "RealYou.UniTask.Editor",
+    "references": [
+        "RealYou.UniTask.Runtime",
+        "UnityEditor.UI",
+        "Unity.2D.Tilemap.Editor",
+        "UnityEngine.UI"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
